@@ -48,7 +48,7 @@
 ---
 
 ### Connect With Me
-- [GitHub](https://github.com/nowshinananna)
+- [GitHub](https://github.com/Nyctophilia58)
 - [Email](mailto:nowtechdev@gmail.com)
 - [Telegram](https://t.me/BrainLimitExceeded)  
 
