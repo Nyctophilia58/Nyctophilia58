@@ -65,6 +65,7 @@
 
 ### 🌱 What Drives Me
 I’m driven by curiosity and the need to keep learning — to understand how things work and how they can be made better. I love creating something that feels meaningful, something that leaves an impact no matter how small. Each project teaches me something new, and every challenge pushes me to grow, both as a developer and as a person.
+
 ---
 
 ### 📫 Connect With Me
