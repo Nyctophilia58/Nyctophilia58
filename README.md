@@ -64,8 +64,7 @@
 ---
 
 ### 🌱 What Drives Me
-I am driven by curiosity, continuous learning, and the pursuit of technical excellence. I strive to create software that is efficient and impactful, exploring new technologies and building solutions that make a difference. Every challenge is an opportunity to grow, and every project is a chance to create something meaningful.  
-
+I’m driven by curiosity and the need to keep learning — to understand how things work and how they can be made better. I love creating something that feels meaningful, something that leaves an impact no matter how small. Each project teaches me something new, and every challenge pushes me to grow, both as a developer and as a person.
 ---
 
 ### 📫 Connect With Me
