@@ -71,7 +71,8 @@ I’m driven by curiosity and the need to keep learning, to understand how thing
 ### 📫 Connect With Me
 - [GitHub](https://github.com/Nyctophilia58)  
 - [Email](mailto:nowtechdev@gmail.com)  
-- [Telegram](https://t.me/BrainLimitExceeded)  
+- [Telegram](https://t.me/BrainLimitExceeded)
+- [Facebook](https://www.facebook.com/share/14TSkQ3CSgT/)
 
 ---
 
