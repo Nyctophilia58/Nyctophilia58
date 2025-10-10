@@ -3,7 +3,6 @@
   A Flutter & Android Developer, Python enthusiast, and lifelong learner from Bangladesh.
 </h3>
 
-<br></br>
 - 🔭 I’m currently working on **creative Android and Flutter projects**  
 - 🌱 I’m currently learning **advanced Flutter, Python, and Kotlin techniques**  
 - 👯 I’m looking to collaborate on **innovative open-source apps**  
