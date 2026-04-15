@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Featured Projects  
-
+- 📝 [TaskForge](https://github.com/Nyctophilia58/TaskForge) — *A Flutter Based Task Management Platform.*
 - 🎲 [Snadders](https://github.com/Nyctophilia58/snadders) — *A modern take on Snakes & Ladders with ads, coins, and unlockable boards.*  
 - 💬 [Bangla Unit Currency Converter](https://github.com/Nyctophilia58/bangla_unit_currency_converter) — *A handy converter for Bangla units and currencies.*  
 - ⌚ [WearOS App](https://github.com/Nyctophilia58/wearOS) — *A customizable Wear OS watch face with language, color, and font options.*  
